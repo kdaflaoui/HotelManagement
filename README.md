@@ -36,3 +36,5 @@ Outils : Java, NetBeans, Persistance JPA-Hibernate, Oracle
 
 ###############  Medele de facture génerée
 
+![sans titre6](https://user-images.githubusercontent.com/26189475/39714080-f63b779c-51f6-11e8-8c93-9c916275b611.jpg)
+
