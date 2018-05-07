@@ -31,3 +31,8 @@ Outils : Java, NetBeans, Persistance JPA-Hibernate, Oracle
 
 ###############  CheckOut
 
+![sans titre5](https://user-images.githubusercontent.com/26189475/39714065-ed3f4e70-51f6-11e8-9600-40e0648f5447.jpg)
+
+
+###############  Medele de facture génerée
+
