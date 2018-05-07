@@ -20,5 +20,11 @@ Outils : Java, NetBeans, Persistance JPA-Hibernate, Oracle
 ![sans titre](https://user-images.githubusercontent.com/26189475/39713746-e35237f2-51f5-11e8-9370-4a1b1bb9e1f2.jpg)
 
 
-############### Fenetre d'enrigistrement des clients 
+############### Fenetre d'enregistrement des clients (CheckIn)
 
+![sans titre2](https://user-images.githubusercontent.com/26189475/39713843-3566e47a-51f6-11e8-8216-a271bd59703f.jpg)
+
+
+############### Enregistrer les services clients 
+
+###############  CheckOut
